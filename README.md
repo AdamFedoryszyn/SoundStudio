@@ -114,7 +114,3 @@ Potential future improvements include:
 ## ⚖️ Disclaimer
 
 FL Clone is an independent software project inspired by digital audio workstations. It is not an official Image-Line product and is not affiliated with or endorsed by Image-Line or the creators of FL Studio.
-
-## 📄 License
-
-See the repository's license file for the applicable license terms. Before distributing the project, verify that the license covers the application and that all third-party dependencies and assets comply with their respective licenses.
