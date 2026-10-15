@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FL Clone v10.4.0
 
 ## Neue Funktionen
@@ -37,3 +38,7 @@ Mikrofonaufnahme benötigt ein verfügbares Audio-Eingabegerät. Beim ersten Zug
 ## Technische Prüfung
 
 Die JavaScript-Dateien wurden mit `node --check` geprüft und `package.json` wurde als gültiges JSON validiert. Ein tatsächlicher Electron-/Mikrofonlaufzeittest wurde in dieser Umgebung nicht durchgeführt, da Electron/Playwright hier nicht installiert sind.
+=======
+# SoundStudio
+An Electron-based digital audio workstation (DAW) featuring a step sequencer, piano roll, song arrangement, automation, modular effects, sample management, microphone recording, and WAV export. Built with JavaScript and the Web Audio API.
+>>>>>>> ce4f8aa652463439cb4e699ed2e9b7ba24ed31df
